@@ -92,7 +92,7 @@ set hlsearch
 
 set termguicolors
 " 配色方案, 可以从上面插件安装中的选择一个使用
-colorscheme one " 主题
+colorscheme monokai " 主题
 set background=dark " 主题背景 dark-深色; light-浅色
 
 let g:go_fmt_command = "goimports" " 格式化将默认的 gofmt 替换
@@ -133,7 +133,7 @@ map <Leader>w :w<CR>
 :nn <Leader>0 :tablast<CR>
 
 " Plugin Settings
-let NERDTreeMapOpenInTab='<ENTER>'
+"let NERDTreeMapOpenInTab='<ENTER>'
 
 map <leader>t :NERDTreeToggle<CR>
 
