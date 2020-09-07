@@ -26,3 +26,5 @@ source $HOME/.config/nvim/plug-config/nred.vim
 source $HOME/.config/nvim/plug-config/ycmd.vim
 source $HOME/.config/nvim/plug-config/tagbar.vim
 source $HOME/.config/nvim/themes/themes.vim
+
+
