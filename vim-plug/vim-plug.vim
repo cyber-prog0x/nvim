@@ -23,6 +23,8 @@ Plug 'junegunn/fzf.vim'
 Plug 'Valloric/YouCompleteMe'
 Plug 'majutsushi/tagbar'
 Plug 'mhartington/oceanic-next'
+Plug 'Chiel92/vim-autoformat'
+Plug 'skywind3000/asyncrun.vim'
 call plug#end()
 
 
