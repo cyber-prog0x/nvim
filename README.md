@@ -1,4 +1,4 @@
-# [ NeoVim Configuration Just for Kios ]  
+# MY NEOVIM CONFIGURATION
 
   Happy Hacking! 
 
